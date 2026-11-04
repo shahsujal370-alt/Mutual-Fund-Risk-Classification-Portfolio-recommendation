@@ -1,0 +1,6 @@
+scheme_name,amc_name,category,sub_category,risk_category,rating,returns_1yr,returns_3yr,returns_5yr,sd,sharpe,recommendation_score
+Mahindra Manulife Equity Savings Fund,Mahindra Manulife Mutual Fund,Hybrid,Equity Savings Mutual Funds,Medium,4,1.7,32.4,13.3,8.16,1.56,0.847789
+SBI Long Term Advantage Fund,SBI Mutual Fund,Equity,ELSS Mutual Funds,Medium,0,0.1,43.3,19.5,18.27,1.79,0.702027
+HSBC Flexi Debt Fund,HSBC Mutual Fund,Debt,Dynamic Bond,Medium,2,1.7,32.4,13.3,2.47,0.39,0.698157
+Sundaram Emerging Small Cap Series IV – Dir Growth,Sundaram Mutual Fund,Equity,Small Cap Mutual Funds,Medium,0,6.7,41.4,8.9,18.88,1.9,0.693428
+SBI Tax Advantage Fund,SBI Mutual Fund,Equity,ELSS Mutual Funds,Medium,0,1.9,41.1,21.8,16.07,1.85,0.692568
