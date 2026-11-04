@@ -1,0 +1,6 @@
+scheme_name,amc_name,category,sub_category,risk_category,rating,returns_1yr,returns_3yr,returns_5yr,sd,sharpe,recommendation_score
+Sundaram Emerging Small Cap Series III – Dir Growth,Sundaram Mutual Fund,Equity,Small Cap Mutual Funds,Low,0,9.4,43.7,8.9,19.13,1.97,0.704607
+HSBC Corporate Bond Fund,HSBC Mutual Fund,Debt,Corporate Bond Mutual Funds,Low,2,1.7,32.4,13.3,2.47,0.39,0.698157
+Navi Ultra Short Term Fund,Navi Mutual Fund,Debt,Ultra Short Duration Funds,Low,1,1.7,32.4,13.3,0.36,0.79,0.656511
+WhiteOak Capital Overnight Fund,WhiteOak Capital Mutual Fund,Debt,Overnight Mutual Funds,Low,1,1.7,32.4,13.3,0.39,-0.07,0.656511
+ITI Banking & PSU Debt Fund,ITI Mutual Fund,Debt,Banking and PSU Mutual Funds,Low,5,5.4,18.5,8.9,12.3,1.29,0.636057

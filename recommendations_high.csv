@@ -1,0 +1,6 @@
+scheme_name,amc_name,category,sub_category,risk_category,rating,returns_1yr,returns_3yr,returns_5yr,sd,sharpe,recommendation_score
+Quant Small Cap Fund,Quant Mutual Fund,Equity,Small Cap Mutual Funds,High,5,5.4,71.4,23.2,24.75,2.11,0.985627
+Quant Infrastructure Fund,Quant Mutual Fund,Equity,Sectoral / Thematic Mutual Funds,High,5,5.6,61.5,21.1,19.24,2.3,0.984767
+Quant Tax Plan- Direct Growth,Quant Mutual Fund,Equity,ELSS Mutual Funds,High,5,0.9,54.9,22.2,19.74,2.03,0.983907
+Canara Robeco Small Cap Fund,Canara Robeco Mutual Fund,Equity,Small Cap Mutual Funds,High,5,-0.6,51.8,8.9,17.75,2.17,0.983047
+Quant Flexi Cap Fund,Quant Mutual Fund,Equity,Flexi Cap Funds,High,5,6.8,47.7,18.2,19.16,1.94,0.981757
